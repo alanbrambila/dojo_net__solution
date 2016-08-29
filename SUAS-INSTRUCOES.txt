@@ -1,0 +1,17 @@
+A solução foi desenvolvida em ASP.NET 4.5 WebAPI 2, com o Visual Sutdio 2013
+
+Para o ver o Ranking do problema, você pode fazer a seguinte requisição HTTP:
+
+GET
+Header: 
+Content-Type - Application/Json
+Endereço:
+http://localhost:<porta_do_iisexpress>/api/Ranking/
+
+
+Para ver o Ranking baseado em um log diferente do problema, você pode realizar a mesma requisição HTTP, acrescente 11348970 ao final do endereço (ex.: .../api/Ranking/11348970).
+
+Dos bônus, foram solucionados:
+
+* Descobrir a arma preferida (a que mais matou) do vencedor;
+* Jogadores que vencerem uma partida sem morrerem devem ganhar um "award";
