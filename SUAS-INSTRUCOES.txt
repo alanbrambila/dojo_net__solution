@@ -1,4 +1,4 @@
-A solução foi desenvolvida em ASP.NET 4.5 WebAPI 2, com o Visual Sutdio 2013
+A solução foi desenvolvida em ASP.NET 4.5 WebAPI 2, com o Visual Studio 2013
 
 Para o ver o Ranking do problema, você pode fazer a seguinte requisição HTTP:
 
